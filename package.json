@@ -1,0 +1,22 @@
+{
+  "name": "wagmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html -p 1234"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wagmi/core": "^1.3.9",
+    "@web3modal/ethereum": "^2.7.1",
+    "@web3modal/html": "^2.7.1",
+    "parcel": "^2.9.3",
+    "viem": "^1.6.7"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
